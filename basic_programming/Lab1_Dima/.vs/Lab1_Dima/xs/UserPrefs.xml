@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{BE2C30FF-D6C7-4285-9E2C-2247F87A32E5}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab1__Dima PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab1_Dima" expanded="True">
+            <Node name="Lab1_Dima" expanded="True">
+              <Node name="AboutForm.cs" expanded="True">
+                <Node name="AboutForm.Designer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
