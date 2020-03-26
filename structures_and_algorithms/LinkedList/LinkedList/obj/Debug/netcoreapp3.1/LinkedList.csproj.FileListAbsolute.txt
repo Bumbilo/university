@@ -1,0 +1,11 @@
+/Users/dima/Documents/Projects/university/structures_and_algorithms/LinkedList/LinkedList/bin/Debug/netcoreapp3.1/LinkedList
+/Users/dima/Documents/Projects/university/structures_and_algorithms/LinkedList/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.deps.json
+/Users/dima/Documents/Projects/university/structures_and_algorithms/LinkedList/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.runtimeconfig.json
+/Users/dima/Documents/Projects/university/structures_and_algorithms/LinkedList/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.runtimeconfig.dev.json
+/Users/dima/Documents/Projects/university/structures_and_algorithms/LinkedList/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.dll
+/Users/dima/Documents/Projects/university/structures_and_algorithms/LinkedList/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.pdb
+/Users/dima/Documents/Projects/university/structures_and_algorithms/LinkedList/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.csprojAssemblyReference.cache
+/Users/dima/Documents/Projects/university/structures_and_algorithms/LinkedList/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.AssemblyInfoInputs.cache
+/Users/dima/Documents/Projects/university/structures_and_algorithms/LinkedList/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.AssemblyInfo.cs
+/Users/dima/Documents/Projects/university/structures_and_algorithms/LinkedList/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.dll
+/Users/dima/Documents/Projects/university/structures_and_algorithms/LinkedList/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.pdb
