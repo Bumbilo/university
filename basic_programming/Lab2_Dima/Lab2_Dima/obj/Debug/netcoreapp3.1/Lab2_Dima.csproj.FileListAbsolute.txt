@@ -1,0 +1,11 @@
+/Users/dima/Documents/Projects/university/basic_programming/Lab2_Dima/Lab2_Dima/bin/Debug/netcoreapp3.1/Lab2_Dima
+/Users/dima/Documents/Projects/university/basic_programming/Lab2_Dima/Lab2_Dima/bin/Debug/netcoreapp3.1/Lab2_Dima.deps.json
+/Users/dima/Documents/Projects/university/basic_programming/Lab2_Dima/Lab2_Dima/bin/Debug/netcoreapp3.1/Lab2_Dima.runtimeconfig.json
+/Users/dima/Documents/Projects/university/basic_programming/Lab2_Dima/Lab2_Dima/bin/Debug/netcoreapp3.1/Lab2_Dima.runtimeconfig.dev.json
+/Users/dima/Documents/Projects/university/basic_programming/Lab2_Dima/Lab2_Dima/bin/Debug/netcoreapp3.1/Lab2_Dima.dll
+/Users/dima/Documents/Projects/university/basic_programming/Lab2_Dima/Lab2_Dima/bin/Debug/netcoreapp3.1/Lab2_Dima.pdb
+/Users/dima/Documents/Projects/university/basic_programming/Lab2_Dima/Lab2_Dima/obj/Debug/netcoreapp3.1/Lab2_Dima.csprojAssemblyReference.cache
+/Users/dima/Documents/Projects/university/basic_programming/Lab2_Dima/Lab2_Dima/obj/Debug/netcoreapp3.1/Lab2_Dima.AssemblyInfoInputs.cache
+/Users/dima/Documents/Projects/university/basic_programming/Lab2_Dima/Lab2_Dima/obj/Debug/netcoreapp3.1/Lab2_Dima.AssemblyInfo.cs
+/Users/dima/Documents/Projects/university/basic_programming/Lab2_Dima/Lab2_Dima/obj/Debug/netcoreapp3.1/Lab2_Dima.dll
+/Users/dima/Documents/Projects/university/basic_programming/Lab2_Dima/Lab2_Dima/obj/Debug/netcoreapp3.1/Lab2_Dima.pdb
